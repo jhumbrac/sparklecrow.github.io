@@ -1,13 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather+Sans);
+@import url(http://fonts.googleapis.com/css?family=Merriweather);
+
+.{margin:0; padding:0; border-box:box-sizing;
+}
+
 body {
-	background-color: blue;
-	color:#ffffff;
+	background-image:url('images/background.jpg');
+	background-attachment: fixed;
+	background: cover;
+	background-repeat: no-repeat;
+	color:#222222;
 	font-size:16px;
+	font-family: "meriwether sans", "sans"
+	font-weight:100;
 }
-
-h1 {
-	font-family: Arial, sans-serif;
+section#navigation {
+	height:10vh;
+	background:#5CABCB;
 }
-
-#slogan{
-	font-style: italic;
+section#splash {
+	height:10vh;
+}
+section#services{
+	background:#fff;
+}
+section#testimony{
+	background:#FFDC98;
+}
+section#schedule{
+	background:#fff;
+}
+section#social{
+	background:#5CABCB;
 }
