@@ -1,8 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Merriweather+Sans);
+@import url(http://fonts.googleapis.com/css?family=Merriweather+Sans:700,400);
 @import url(http://fonts.googleapis.com/css?family=Merriweather);
 
-.{margin:0; padding:0; border-box:box-sizing;
-}
+*{margin:0; padding:0; box-sizing:border-box;}
 
 body {
 	background-image:url('images/background.jpg');
@@ -11,15 +10,13 @@ body {
 	background-repeat: no-repeat;
 	color:#222222;
 	font-size:16px;
-	font-family: "meriwether sans", "sans"
-	font-weight:100;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-weight:400;
 }
-section#navigation {
-	height:10vh;
+nav {
 	background:#5CABCB;
 }
 section#splash {
-	height:10vh;
 }
 section#services{
 	background:#fff;
