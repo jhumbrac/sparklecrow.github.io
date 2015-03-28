@@ -4,10 +4,6 @@
 *{margin:0; padding:0; box-sizing:border-box;}
 
 body {
-	background-image:url('images/background.jpg');
-	background-attachment: fixed;
-	background: cover;
-	background-repeat: no-repeat;
 	color:#222222;
 	font-size:16px;
 	font-family: 'Merriweather Sans', sans-serif;
@@ -16,17 +12,38 @@ body {
 nav {
 	background:#5CABCB;
 }
+section {
+	padding:4em 0 4em 0;
+}
 section#splash {
+	background-image:url('images/background.jpg');
+	background-attachment: fixed;
+	background: cover;
+	background-repeat: no-repeat;
+	height:95vh;
 }
 section#services{
 	background:#fff;
 }
 section#testimony{
 	background:#FFDC98;
+	clear:both;
 }
 section#schedule{
 	background:#fff;
 }
 section#social{
 	background:#5CABCB;
+}
+section#offer section {
+	background-image:url('images/background.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	float:left;
+	margin:.5%;
+	padding:4em;
+	width:32.33%;
+}
+h1 {
+	margin:10em 0 0 10em;
 }
