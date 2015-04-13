@@ -1,0 +1,19 @@
+* { margin:0; padding:0; box-sizing:border-box; } 
+
+
+
+body {
+	color:#9fd6c2;
+	font-size:16px;
+	font-family: 'Merriweather', serif;
+	font-weight:400;
+}
+
+section#splash {
+	height:90vh; 
+	padding:400px 0 0 200px
+}
+
+h1 {
+	font-size:3em;
+}
