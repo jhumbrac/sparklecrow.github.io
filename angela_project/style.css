@@ -10,11 +10,29 @@ body {
 }
 
 section#splash {
-	height:90vh; 
-	padding:400px 0 0 200px;
+	height:100vh; 
 	background: #777777;
+}
+
+section#samples class="clearfix"{
+	background:#999999;
+}
+
+section#samples div{
+	margin:1em;
+	float:left;
+	width:28%;
 }
 
 h1 {
 	font-size:3em;
+
+
+}
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
 }
