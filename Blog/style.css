@@ -13,7 +13,7 @@ body {
 	font-famiy:'Covered By Your Grace', cursive;
 }
 
-nav {
+nav a{
 	border:.2em #fff solid;
 	border-radius:.2em;
 	color:#fff;
