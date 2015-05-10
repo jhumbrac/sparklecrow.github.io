@@ -19,6 +19,7 @@ nav a{
 	font-weight:400;
 	margin-left: 2em;
 	margin-right:1em;
+	margin-bottom:.25em;
 	text-align:center;
 	text-decoration:none;
 	float: right;
@@ -36,13 +37,21 @@ h2 {
 	font-family:'Lora', serif;
 	font-weight:400;
 	text-align: center;
+	margin-top:1em;
+	margin-bottom:1em;
+}
+
+img{
+	align:center;
 }
 
 p { 
 	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
 	text-align:left;
+	margin-top:1em;
 }
+
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
