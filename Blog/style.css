@@ -24,6 +24,11 @@ nav a{
 	color:#333;
 }
 
+.articleIntro{
+	width:42%
+	margin-left: 16%;
+}
+
 h2 {
 	font-size:3em;
 	font-family:'Lora', serif;
@@ -34,6 +39,7 @@ h2 {
 p { 
 	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
+	text-align:left;
 }
 .clearfix:after { 
 	content: "."; 
