@@ -11,12 +11,14 @@ body {
 .logo {
 	font-size: 7em;
 	font-family:'Covered By Your Grace', cursive;
+	margin-left: 1.5em;
 }
 
 nav a{
 	display:block;
 	font-weight:400;
-	margin-left: 3em;
+	margin-left: 2em;
+	margin-right:1em;
 	text-align:center;
 	text-decoration:none;
 	float: right;
