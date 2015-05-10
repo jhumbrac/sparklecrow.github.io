@@ -13,18 +13,16 @@ body {
 	font-family:'Covered By Your Grace', cursive;
 }
 
-a.nav{
-	border:.2em #333 solid;
-	border-radius:.2em;
-	color:#333;
+nav a{
 	display:block;
 	font-weight:400;
-	padding:1.5em 0;
+	margin-left: 3em;
 	text-align:center;
 	text-decoration:none;
+	float: right;
 }
 
-h1 {
+h2 {
 	font-size:2em;
 	font-family:'Lora', serif;
 	font-weight:400;
