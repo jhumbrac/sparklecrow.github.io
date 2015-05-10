@@ -41,11 +41,11 @@ h2 {
 	margin-bottom:1em;
 }
 
-img{
+.articleIntro img{
 	align:center;
 }
 
-p { 
+.articleIntro p { 
 	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
 	text-align:left;
