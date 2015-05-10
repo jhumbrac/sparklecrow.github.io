@@ -43,6 +43,8 @@ h2 {
 
 .articleIntro img{
 	align:center;
+	margin-left:18%;
+	width:50%;
 }
 
 .articleIntro p { 
@@ -50,6 +52,8 @@ h2 {
 	font-weight:400;
 	text-align:left;
 	margin-top:1em;
+	width:50%;
+	margin-left:18%;
 }
 
 .clearfix:after { 
