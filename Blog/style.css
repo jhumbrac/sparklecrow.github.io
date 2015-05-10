@@ -28,8 +28,8 @@ nav a{
 }
 
 .articleIntro{
-	width:42%
-	margin-left: 16%;
+	width:50%
+	margin-left: 18%;
 }
 
 h2 {
@@ -54,6 +54,13 @@ h2 {
 	margin-top:1em;
 	width:50%;
 	margin-left:18%;
+}
+
+.storyNav{
+	text-deoration:none;
+	background:ff0000;
+	height:1.5em;
+	width:5%;
 }
 
 .clearfix:after { 
