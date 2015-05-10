@@ -20,12 +20,15 @@ nav a{
 	text-align:center;
 	text-decoration:none;
 	float: right;
+	font-size: 2em;
+	color:#333;
 }
 
 h2 {
-	font-size:2em;
+	font-size:3em;
 	font-family:'Lora', serif;
 	font-weight:400;
+	text-align: center;
 }
 
 p { 
