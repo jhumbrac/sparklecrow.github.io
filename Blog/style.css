@@ -67,6 +67,7 @@ h2 {
 .articleIntro .storyNav{
 	text-decoration:none;
 	background:#ff0000;
+	display:block;
 	height:2em;
 	padding: 1em;
 	border-radius:.4em;
