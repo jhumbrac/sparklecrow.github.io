@@ -64,7 +64,7 @@ h2 {
 	margin-top:1em;
 }
 
-.storyNav {
+.storyNav a{
 	text-decoration:none;
 	background:ff0000;
 	height:1.5em;
