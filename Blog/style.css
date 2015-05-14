@@ -71,6 +71,7 @@ h2 {
 	width:5%;
 	padding: 1em;
 	border-radius:.4em;
+	display:block;
 	text-align:center;
 }
 
