@@ -5,12 +5,13 @@ body {
 	font-family: 'Open-Sans', Sans-serif;
 }
 main {
-	float:left;
-	width:62%;
+	float: left;
+	width: 62%;
 }
 aside {
-	float:left;
-	width:38%;
+	float: left;
+	width: 38%;
+	margin-top: 1em;
 }
 .logo {
 	float:left;
@@ -26,12 +27,13 @@ nav a{
 	font-weight:400;
 	float:left;
 	margin-left: 2em;
-	margin-right:1em;
-	margin-bottom:1em;
+	margin-right: 1em;
+	margin-top: 4em;
 	text-align:center;
 	text-decoration:none;
 	font-size: 2em;
 	color:#333;
+	padding: .25em;
 }
 
 .articleIntro{
