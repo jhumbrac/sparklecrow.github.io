@@ -54,7 +54,7 @@ h2 {
 }
 
 .articleIntro img {
-	display:bock;
+	display:block;
 	margin-left:auto;
 	margin-right:auto;
 }
@@ -72,7 +72,7 @@ h2 {
 	background:#ff0000;
 	display:block;
 	height:2em;
-	padding: 1em 1em;
+	padding: 1em 1em 1em 1em;
 	border-radius:.4em;
 	text-align:center;
 	margin-left:20%;
