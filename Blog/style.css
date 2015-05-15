@@ -99,7 +99,10 @@ article p {
 	width:3em;
 	display:block;
 	float:right;
-	margin-right:3em;
+	margin-right:20%;
+	margin-top:3em;
+	padding:.5em;
+	border-radius:.4em;
 }
 
 .clearfix:after { 
