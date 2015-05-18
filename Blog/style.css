@@ -81,6 +81,14 @@ article p {
 	text-align:left;
 }
 
+.date{
+	float:left;
+}
+
+.filed{
+	float:right;
+}
+
 .articleIntro .storyNav{
 	text-decoration:none;
 	color:#fff;
