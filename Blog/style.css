@@ -16,9 +16,8 @@ hr {
 }
 
 article {
-	float:left;
 	width:50%;
-	margin-left:18%;
+	margin-left:auto;
 }
 
 aside {
