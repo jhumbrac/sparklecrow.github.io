@@ -83,10 +83,12 @@ article p {
 
 .date{
 	float:left;
+	display:block;
 }
 
 .filed{
 	float:right;
+	display:block;
 }
 
 .articleIntro .storyNav{
